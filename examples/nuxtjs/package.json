@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt-edge": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27238235.a1bcc53",
+    "autoprefixer": "^10.3.7",
+    "daisyui": "latest",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.17"
+  }
+}
